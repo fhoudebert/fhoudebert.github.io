@@ -1,0 +1,59 @@
+<style>
+	table.psymbs {
+		text-align: center;
+	}
+	.psymb {
+		background-image: url({GAME}/res/images/wikipedia.png);
+		width: 100px;
+		height: 200px;
+	}
+	.psymbs td {
+		padding: 0 10px 0 10px;
+	}
+	.psymb-bold {
+		font-weight: bold;
+	}
+	.side {
+		float: right;
+		max-width: 100%;
+	}
+	@media screen and (max-width: 520px) {
+		.side {
+			float: none;
+			display: block;
+			max-width: 100%;
+			margin-right: auto;
+			margin-left: auto;
+		}		
+	}
+	h1,h2,h3,h4 {
+		clear: both;
+	}
+</style>
+<h1>Differences from orthodox chess</h1>
+<h2>Inital setup</h2>
+<p>Played on 3 6x8 boards, each player starts with 18 Pawns, 2 Rooks, 4 Bishops, 4 Knights, 1 Queen and 1 King.</p>
+<p style='text-align:center'><img style="max-width:100%;" src="{GAME}/res/rules/3dchess/initial.png"/></p>
+<h2>Pieces</h2>
+<h3>Pawn</h3>
+<p>Pawns move like orthodox pawns on their current plane, but can go to another plane for captures only (see figure).</p>
+<p style='text-align:center'><img style="max-width:100%;" src="{GAME}/res/rules/3dchess/pawn.png"/></p>
+<h3>Knight</h3>
+<p>Knights move following L shape paths in the 3 dimensions. They land on the opposite color from the starting cell.</p>
+<p style='text-align:center'><img style="max-width:100%;" src="{GAME}/res/rules/3dchess/knight.png"/></p>
+<h3>Bishop</h3>
+<p>Bishops move following 3D diagonals always remaining on the same color.</p>
+<p style='text-align:center'><img style="max-width:100%;" src="{GAME}/res/rules/3dchess/bishop.png"/></p>
+<h3>Rook</h3>
+<p style='text-align:center'><img style="max-width:100%;" src="{GAME}/res/rules/3dchess/rook.png"/></p>
+<h3>Queen</h3>
+<p>The Queen moves like Rook + Bishop + Unicorn.</p>
+<p style='text-align:center'><img style="max-width:100%;" src="{GAME}/res/rules/3dchess/queen.png"/></p>
+<h3>King</h3>
+<p>The King moves like orthodox King on its current plane, but can go to another plane for captures only (see figure).</p>
+<p style='text-align:center'><img style="max-width:100%;" src="{GAME}/res/rules/3dchess/king.png"/></p>
+<h2>Features</h2>
+<p>Double move for Pawns (start): yes.</p>
+<p>Castling: yes.</p>
+<p>"En passant" capture: yes.</p>
+
