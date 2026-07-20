@@ -6,8 +6,8 @@
 
 ## Jocly demos
 
-- **English:** [Modules](https://fhoudebert.github.io/jocly/examples/browser/control.html) — play a selected game
-- **Français :** [Modules](https://fhoudebert.github.io/jocly/examples/browser/control_fr.html) — jouer à un jeu choisi
+- **English:** [Web interface for jocly2](https://fhoudebert.github.io/jocly/examples/browser/control.html) — play a selected game
+- **Français :** [Interface web pour jocly2](https://fhoudebert.github.io/jocly/examples/browser/control_fr.html) — jouer à un jeu choisi
 - [Multiple games](https://fhoudebert.github.io/jocly/examples/browser/multiple.html) — browse and preview many games
 
 ## Tabulon extensions
