@@ -1,0 +1,1 @@
+onmessage=function(e){var s=e.data||{};switch(s.type){case"Init":postMessage({type:"Error",error:"no Pean engine in this build (the uct AI plays instead)"});break;case"Search":postMessage({type:"Error",error:"no Pean engine in this build"});break;case"Stop":postMessage({type:"Aborted"});break}};

@@ -1,0 +1,1 @@
+onmessage=function(e){var a=e.data||{};switch(a.type){case"Init":postMessage({type:"Error",error:"no Game of War engine in this build (the uct AI plays instead)"});break;case"Search":postMessage({type:"Error",error:"no Game of War engine in this build"});break;case"Stop":postMessage({type:"Aborted"});break}};
