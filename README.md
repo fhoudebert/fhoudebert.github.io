@@ -18,3 +18,13 @@ Browse the catalog:
 
 - [Modules](https://fhoudebert.github.io/tabulon/ext/modules/index.html) — complete game families. A **module** contains several related games and their shared resources. It can be installed directly.
 - [Games](https://fhoudebert.github.io/tabulon/ext/games/index.html) — individual games. Installing a game requires that its corresponding module is already installed.
+
+## Abbon — questionnaires / quizzes
+
+🇫🇷 **[Abbon](https://github.com/fhoudebert/Abbon)** est une application libre de QCM hors ligne (Linux, Windows, macOS, Android). Les questionnaires se téléchargent ici, puis s'importent dans Abbon (*Administration › Importer*).
+
+🇬🇧 **[Abbon](https://github.com/fhoudebert/Abbon)** is a free offline quiz app (Linux, Windows, macOS, Android). Download quiz files here, then import them in Abbon (*Admin › Import*).
+
+- [Abbon](https://fhoudebert.github.io/abbon/) — présentation, téléchargement de l'application / about the app, download
+- [Questionnaires](https://fhoudebert.github.io/abbon/questionnaires/) — fichiers `.qcm` classés par langue et par rubrique / `.qcm` files by language and topic
+  - [Français › Langues](https://fhoudebert.github.io/abbon/questionnaires/fr/langues/) · [Sciences](https://fhoudebert.github.io/abbon/questionnaires/fr/sciences/) · [Technologie](https://fhoudebert.github.io/abbon/questionnaires/fr/technologie/)
