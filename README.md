@@ -27,4 +27,4 @@ Browse the catalog:
 
 - [Abbon](https://fhoudebert.github.io/abbon/) — présentation, téléchargement de l'application / about the app, download
 - [Questionnaires](https://fhoudebert.github.io/abbon/questionnaires/) — fichiers `.qcm` classés par langue et par rubrique / `.qcm` files by language and topic
-  - [Français › Langues](https://fhoudebert.github.io/abbon/questionnaires/fr/langues/) · [Sciences](https://fhoudebert.github.io/abbon/questionnaires/fr/sciences/) · [Technologie](https://fhoudebert.github.io/abbon/questionnaires/fr/technologie/)
+  - [Français › Langues](https://fhoudebert.github.io/abbon/questionnaires/fr/langues/) · [Sciences](https://fhoudebert.github.io/abbon/questionnaires/fr/sciences/) · [Technologie](https://fhoudebert.github.io/abbon/questionnaires/fr/technologie/) · [Histoire](https://fhoudebert.github.io/abbon/questionnaires/fr/histoire/) · [Philosophie](https://fhoudebert.github.io/abbon/questionnaires/fr/philosophie/)
