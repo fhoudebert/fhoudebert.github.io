@@ -1,0 +1,1573 @@
+{
+  "id": "org-abbon-etymologie_argent-travail-01",
+  "categoryId": "org-abbon-etymologie_argent-travail",
+  "title": {
+    "fr": "Argent, travail et vie quotidienne"
+  },
+  "description": {
+    "fr": "Travail, pécune, capital et cheptel, salaire, calcul, monnaie, fisc, banqueroute, bureau, grève, chômage, copain"
+  },
+  "languages": [
+    "fr"
+  ],
+  "level": "bases",
+  "tags": [
+    "étymologie",
+    "culture générale",
+    "français"
+  ],
+  "timeLimitSec": null,
+  "passThreshold": 0.6,
+  "scoring": "all_or_nothing",
+  "solutionVisibility": "after_submit",
+  "shuffle": true,
+  "status": "published",
+  "version": 3002,
+  "author": "Abbon",
+  "createdAt": "2026-11-23T00:00:00.000Z",
+  "updatedAt": "2026-11-23T00:00:00.000Z",
+  "questions": [
+    {
+      "id": "org-abbon-etymologie_argent-travail-01_travail",
+      "type": "single",
+      "prompt": {
+        "fr": "Selon l'étymologie la plus souvent citée, à quoi le mot « travail » doit-il son origine ?"
+      },
+      "points": 1,
+      "position": 0,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "En ancien français, « travailler » signifie d'abord tourmenter, faire souffrir : une femme « en travail » est en train d'accoucher, et le « travail » du maréchal-ferrant est encore le bâti où l'on immobilise un cheval pour le ferrer. Le lien avec le "
+                },
+                {
+                  "type": "text",
+                  "text": "tripalium",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " (latin tardif "
+                },
+                {
+                  "type": "text",
+                  "text": "tripaliare",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", torturer) est l'hypothèse classique, mais certains linguistes la jugent fragile. Le sens d'activité productive ne s'impose qu'au XVIe siècle."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_travail_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Au "
+                    },
+                    {
+                      "type": "text",
+                      "text": "tripalium",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", un dispositif à trois pieux servant à immobiliser des animaux ou à supplicier des personnes"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_travail_c2",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Au "
+                    },
+                    {
+                      "type": "text",
+                      "text": "trabs",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", la poutre principale de la maison romaine, image de l'effort qui soutient"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_travail_c3",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Au "
+                    },
+                    {
+                      "type": "text",
+                      "text": "travellum",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", un petit chariot des ouvriers des carrières"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_travail_c4",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Au gaulois "
+                    },
+                    {
+                      "type": "text",
+                      "text": "trava",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", la récolte du blé"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_argent-travail-01_pecune",
+      "type": "single",
+      "prompt": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "« Pécune » (l'argent, en vieux français) et « pécuniaire » viennent du latin "
+                },
+                {
+                  "type": "text",
+                  "text": "pecunia",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ". Que cache ce mot ?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "points": 1,
+      "position": 1,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Chez les Romains comme chez bien d'autres peuples, le troupeau était la première forme de fortune et d'échange. "
+                },
+                {
+                  "type": "text",
+                  "text": "Peculium",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", le petit pécule de l'esclave ou du fils de famille, vient de la même racine. « Péché », lui, vient de "
+                },
+                {
+                  "type": "text",
+                  "text": "peccatum",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", sans rapport."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_pecune_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Pecus",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", le bétail : la richesse se comptait d'abord en têtes de troupeau"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_pecune_c2",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Pecco",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", fauter : l'argent était vu comme une source de péché"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_pecune_c3",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Pectus",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", la poitrine : la bourse se portait contre le cœur"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_pecune_c4",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Pecia",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", la pièce de métal frappée"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_argent-travail-01_capital-cheptel",
+      "type": "single",
+      "prompt": {
+        "fr": "Quel mot est, à l'origine, le même que « capital » ?"
+      },
+      "points": 1,
+      "position": 2,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Les deux viennent du latin "
+                },
+                {
+                  "type": "text",
+                  "text": "capitale",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " (de "
+                },
+                {
+                  "type": "text",
+                  "text": "caput",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", tête), le bien principal, compté par têtes de bétail. L'ancien français en a tiré "
+                },
+                {
+                  "type": "text",
+                  "text": "chatel",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", puis « cheptel », le bien vivant ; la forme savante « capital » a gardé le sens de bien principal, puis de somme qui produit des intérêts. L'anglais en a fait "
+                },
+                {
+                  "type": "text",
+                  "text": "cattle",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " (bétail) et "
+                },
+                {
+                  "type": "text",
+                  "text": "chattel",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " (bien meuble). « Chapitre » vient bien de "
+                },
+                {
+                  "type": "text",
+                  "text": "caput",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", mais par un autre chemin ("
+                },
+                {
+                  "type": "text",
+                  "text": "capitulum",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", petite tête, titre)."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_capital-cheptel_c1",
+          "content": {
+            "fr": "« Cheptel », le bétail d'une ferme"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_capital-cheptel_c2",
+          "content": {
+            "fr": "« Chapelle », lieu de prière"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_capital-cheptel_c3",
+          "content": {
+            "fr": "« Chapitre », division d'un livre"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_capital-cheptel_c4",
+          "content": {
+            "fr": "« Cachet », marque d'un sceau"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_argent-travail-01_salaire",
+      "type": "single",
+      "prompt": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "« Salaire » vient du latin "
+                },
+                {
+                  "type": "text",
+                  "text": "salarium",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", apparenté à "
+                },
+                {
+                  "type": "text",
+                  "text": "sal",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", le sel. Que peut-on en dire ?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "points": 1,
+      "position": 3,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Aucun texte antique ne décrit de soldats payés en sel. "
+                },
+                {
+                  "type": "text",
+                  "text": "Salarium",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " désigne une indemnité, peut-être à l'origine destinée à acheter du sel, denrée précieuse. La "
+                },
+                {
+                  "type": "text",
+                  "text": "Via Salaria",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", la route du sel vers l'Adriatique, est réelle, mais elle n'a rien à voir avec le salaire."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_salaire_c1",
+          "content": {
+            "fr": "Le mot désignait une indemnité versée aux soldats ; qu'ils aient été payés en sel est une légende, mais le lien avec le sel est réel"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_salaire_c2",
+          "content": {
+            "fr": "Les ouvriers romains recevaient chaque soir une poignée de sel en guise de paie"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_salaire_c3",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Le mot vient de la "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Via Salaria",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", route où travaillaient les premiers salariés"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_salaire_c4",
+          "content": {
+            "fr": "Le sel servait à marquer les pièces de monnaie authentiques"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_argent-travail-01_calcul",
+      "type": "single",
+      "prompt": {
+        "fr": "Pourquoi le mot « calcul » désigne-t-il aussi une pierre dans le rein ?"
+      },
+      "points": 1,
+      "position": 4,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Calculus",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", diminutif de "
+                },
+                {
+                  "type": "text",
+                  "text": "calx",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " (la pierre, la chaux), est le caillou qu'on déplace sur une table à compter. La médecine a gardé le sens de petite pierre (calcul rénal), les mathématiques celui de compte. « Calcaire » vient de "
+                },
+                {
+                  "type": "text",
+                  "text": "calx",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", la même famille."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_calcul_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Parce que le latin "
+                    },
+                    {
+                      "type": "text",
+                      "text": "calculus",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " signifie « petit caillou » : on comptait avec des cailloux, sur des abaques"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_calcul_c2",
+          "content": {
+            "fr": "Parce que les médecins calculaient la taille de ces pierres pour les soigner"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_calcul_c3",
+          "content": {
+            "fr": "Parce qu'il s'agit d'un dépôt de calcaire, dont le mot est tiré"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_calcul_c4",
+          "content": {
+            "fr": "Par une confusion de copiste au Moyen Âge"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_argent-travail-01_monnaie",
+      "type": "single",
+      "prompt": {
+        "fr": "Pourquoi « monnaie » est-il lié à une déesse romaine ?"
+      },
+      "points": 1,
+      "position": 5,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Junon était honorée sur le Capitole sous le nom de "
+                },
+                {
+                  "type": "text",
+                  "text": "Moneta",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", « celle qui avertit » (de "
+                },
+                {
+                  "type": "text",
+                  "text": "monere",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", avertir) : selon la légende, ses oies sacrées avaient averti les Romains d'une attaque gauloise. L'atelier monétaire voisin a pris son nom. L'anglais "
+                },
+                {
+                  "type": "text",
+                  "text": "money",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " et "
+                },
+                {
+                  "type": "text",
+                  "text": "mint",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " (l'hôtel des monnaies) en descendent aussi."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_monnaie_c1",
+          "content": {
+            "fr": "Les pièces étaient frappées près du temple de Junon Moneta, sur le Capitole, à Rome"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_monnaie_c2",
+          "content": {
+            "fr": "Les pièces portaient le visage de Moneta, déesse de la richesse"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_monnaie_c3",
+          "content": {
+            "fr": "Moneta était la déesse des marchés, à qui l'on offrait une pièce par vente"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_monnaie_c4",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Le mot vient de "
+                    },
+                    {
+                      "type": "text",
+                      "text": "monere",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", compter, et la déesse a été nommée d'après lui"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_argent-travail-01_fisc",
+      "type": "single",
+      "prompt": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Qu'était à l'origine le "
+                },
+                {
+                  "type": "text",
+                  "text": "fiscus",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " latin, d'où vient le « fisc » ?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "points": 1,
+      "position": 6,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Du panier, on est passé à la caisse, puis au trésor personnel de l'empereur, distinct du trésor public ("
+                },
+                {
+                  "type": "text",
+                  "text": "aerarium",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "). « Confisquer », c'est littéralement « mettre dans le panier » de l'État."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_fisc_c1",
+          "content": {
+            "fr": "Un panier tressé en jonc, puis la caisse où l'on gardait l'argent"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_fisc_c2",
+          "content": {
+            "fr": "Un fonctionnaire chargé de compter les têtes de bétail"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_fisc_c3",
+          "content": {
+            "fr": "Le sceau impérial apposé sur les reçus"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_fisc_c4",
+          "content": {
+            "fr": "Un impôt sur les poissons du Tibre"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_argent-travail-01_banqueroute",
+      "type": "single",
+      "prompt": {
+        "fr": "D'où vient le mot « banqueroute » ?"
+      },
+      "points": 1,
+      "position": 7,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Les changeurs italiens du Moyen Âge travaillaient sur un banc ("
+                },
+                {
+                  "type": "text",
+                  "text": "banca",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "), qui a donné « banque ». Le récit selon lequel on brisait le banc d'un changeur failli est sans doute une explication imagée ; l'expression, elle, est bien italienne."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_banqueroute_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "De l'italien "
+                    },
+                    {
+                      "type": "text",
+                      "text": "banca rotta",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", « banc rompu » : celui du changeur qui ne pouvait plus payer"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_banqueroute_c2",
+          "content": {
+            "fr": "Du nom de Jean Banqueroute, financier ruiné sous Louis XIV"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_banqueroute_c3",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "De l'allemand "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Bankrecht",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", le droit des banques"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_banqueroute_c4",
+          "content": {
+            "fr": "De la « route des banques » entre Lyon et Gênes"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_argent-travail-01_bureau",
+      "type": "single",
+      "prompt": {
+        "fr": "Quelle matière se cache dans le mot « bureau » ?"
+      },
+      "points": 1,
+      "position": 8,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Le "
+                },
+                {
+                  "type": "text",
+                  "text": "burel",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " était le tapis de bure posé sur la table où l'on comptait ou écrivait. Le mot a désigné la table, puis la pièce où elle se trouve, puis les personnes qui y travaillent (le bureau d'une association) : « bureaucratie » en est issu, au XVIIIe siècle."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_bureau_c1",
+          "content": {
+            "fr": "La bure, une étoffe de laine grossière dont on couvrait les tables de travail"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_bureau_c2",
+          "content": {
+            "fr": "Le buis, bois dont étaient faits les premiers pupitres"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_bureau_c3",
+          "content": {
+            "fr": "La bourre, le crin qui garnissait les sièges des greffiers"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_bureau_c4",
+          "content": {
+            "fr": "Le burin, outil des graveurs"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_argent-travail-01_greve",
+      "type": "single",
+      "prompt": {
+        "fr": "Pourquoi dit-on « faire grève » ?"
+      },
+      "points": 1,
+      "position": 9,
+      "explanation": {
+        "fr": "Une grève est d'abord une rive de sable ou de gravier, comme celle de la place de Grève (l'actuelle place de l'Hôtel-de-Ville). « Être en grève », c'était chercher de l'ouvrage sur cette place ; le sens a glissé vers la cessation concertée du travail au XIXe siècle. La place servait aussi aux exécutions publiques."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_greve_c1",
+          "content": {
+            "fr": "À Paris, la place de Grève, au bord de la Seine, était le lieu où se réunissaient les ouvriers sans travail pour être embauchés"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_greve_c2",
+          "content": {
+            "fr": "D'après le nom de Jean Grève, meneur d'une révolte d'ouvriers tisserands"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_greve_c3",
+          "content": {
+            "fr": "Parce que le mot signifiait « s'asseoir » en ancien français"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_greve_c4",
+          "content": {
+            "fr": "Parce que les ouvriers en colère se retiraient sur les grèves, les plages de la Manche"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_argent-travail-01_chomage",
+      "type": "single",
+      "prompt": {
+        "fr": "Quel est le point de départ du mot « chômage » ?"
+      },
+      "points": 1,
+      "position": 10,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Chômer, c'est d'abord arrêter le travail aux heures les plus chaudes, puis les jours fériés (« fête chômée »). L'idée de manque de travail subi ne s'impose qu'au XIXe siècle. De "
+                },
+                {
+                  "type": "text",
+                  "text": "kauma",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " vient aussi le « calme », le repos du vent en pleine chaleur."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_chomage_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "La chaleur : le latin tardif "
+                    },
+                    {
+                      "type": "text",
+                      "text": "caumare",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", se reposer pendant les fortes chaleurs, vient du grec "
+                    },
+                    {
+                      "type": "text",
+                      "text": "kauma",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", la brûlure"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_chomage_c2",
+          "content": {
+            "fr": "Le chaume, la paille restée au champ après la moisson"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_chomage_c3",
+          "content": {
+            "fr": "Le chou, nourriture des pauvres sans emploi"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_chomage_c4",
+          "content": {
+            "fr": "Le nom d'un village de Champagne"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_argent-travail-01_copain",
+      "type": "single",
+      "prompt": {
+        "fr": "Que signifie littéralement le mot « copain » ?"
+      },
+      "points": 1,
+      "position": 11,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Du bas latin "
+                },
+                {
+                  "type": "text",
+                  "text": "companio",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", de "
+                },
+                {
+                  "type": "text",
+                  "text": "cum",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " (avec) et "
+                },
+                {
+                  "type": "text",
+                  "text": "panis",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " (pain), qui a donné « compain », puis « copain » et « compagnon ». La « compagnie » (au sens commercial ou militaire) est de la même famille."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_copain_c1",
+          "content": {
+            "fr": "Celui avec qui l'on partage le pain"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_copain_c2",
+          "content": {
+            "fr": "Celui qui a le même père"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_copain_c3",
+          "content": {
+            "fr": "Celui qui monte la garde avec soi"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_argent-travail-01_copain_c4",
+          "content": {
+            "fr": "Celui qui a la même pièce de tissu"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    }
+  ]
+}

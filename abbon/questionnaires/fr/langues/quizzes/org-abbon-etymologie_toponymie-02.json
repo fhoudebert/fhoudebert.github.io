@@ -1,0 +1,1569 @@
+{
+  "id": "org-abbon-etymologie_toponymie-02",
+  "categoryId": "org-abbon-etymologie_toponymie",
+  "title": {
+    "fr": "Noms de lieux : l'eau, les sources et les gués"
+  },
+  "description": {
+    "fr": "Aigues-Mortes, Aix et Dax, Bagnères, Fontenay, Font-Romeu, Caudebec et les noms scandinaves de Normandie (-bec, -tot), -fleur, Azay, ponts et gués gaulois (Brive, Amiens, Chambord, Niort), Rennes et les confluents, gave, anse"
+  },
+  "languages": [
+    "fr"
+  ],
+  "level": "approfondissement",
+  "tags": [
+    "étymologie",
+    "toponymie",
+    "culture générale",
+    "français"
+  ],
+  "timeLimitSec": null,
+  "passThreshold": 0.6,
+  "scoring": "all_or_nothing",
+  "solutionVisibility": "after_submit",
+  "shuffle": true,
+  "status": "published",
+  "version": 3002,
+  "author": "Abbon",
+  "createdAt": "2026-11-23T00:00:00.000Z",
+  "updatedAt": "2026-11-23T00:00:00.000Z",
+  "questions": [
+    {
+      "id": "org-abbon-etymologie_toponymie-02_aigues-mortes",
+      "type": "single",
+      "prompt": {
+        "fr": "Aigues-Mortes, en Camargue : que veut dire son nom ?"
+      },
+      "points": 1,
+      "position": 0,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "L'occitan "
+                },
+                {
+                  "type": "text",
+                  "text": "aiga",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", du latin "
+                },
+                {
+                  "type": "text",
+                  "text": "aqua",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", a donné bien des noms : Aiguebelle (belle eau), Chaudes-Aigues (eaux chaudes, dans le Cantal). Louis IX fit d'Aigues-Mortes son port pour partir aux croisades, en 1248 et 1270  ; la mer en est aujourd'hui plus éloignée."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-02_aigues-mortes_c1",
+          "content": {
+            "fr": "« Les eaux mortes » : les eaux stagnantes des étangs et des marais qui l'entourent"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_aigues-mortes_c2",
+          "content": {
+            "fr": "« La source des morts », lieu d'une bataille"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_aigues-mortes_c3",
+          "content": {
+            "fr": "« Les aigles morts », en occitan"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_aigues-mortes_c4",
+          "content": {
+            "fr": "« La mer aiguë », pour ses vagues"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-02_aix",
+      "type": "single",
+      "prompt": {
+        "fr": "Aix-en-Provence, Aix-les-Bains : que rappelle le nom « Aix » ?"
+      },
+      "points": 1,
+      "position": 1,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Aix-la-Chapelle, en Allemagne ("
+                },
+                {
+                  "type": "text",
+                  "text": "Aachen",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "), capitale de Charlemagne, a la même origine : ses eaux chaudes étaient réputées. Les noms en Aix, Ax ou Aigues jalonnent les sources thermales."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-02_aix_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Des eaux : "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Aquae",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", sources thermales ; Aix-en-Provence est "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Aquae Sextiae",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", « les eaux de Sextius », le consul romain qui fonda la ville en 122 av. J.-C."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_aix_c2",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Une hache, en latin "
+                    },
+                    {
+                      "type": "text",
+                      "text": "ascia",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_aix_c3",
+          "content": {
+            "fr": "Un axe, une grande route romaine"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_aix_c4",
+          "content": {
+            "fr": "Un peuple gaulois, les Aixois"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-02_dax",
+      "type": "single",
+      "prompt": {
+        "fr": "Comment la ville thermale de Dax, dans les Landes, a-t-elle reçu son nom ?"
+      },
+      "points": 1,
+      "position": 2,
+      "explanation": {
+        "fr": "Ce phénomène, l'agglutination, se retrouve dans « lierre » (l'ierre) ou « Lille » (l'Isle). Dax, comme Aix, doit tout à ses sources chaudes, dont la fontaine de la Néhe, à plus de 60 °C."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-02_dax_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Elle s'appelait "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Aquae",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", puis Acqs ; on disait « la ville d'Acqs », et la préposition s'est soudée au nom : D'Acqs, Dax"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_dax_c2",
+          "content": {
+            "fr": "Du nom d'un chef gaulois, Daxos"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_dax_c3",
+          "content": {
+            "fr": "D'un mot basque signifiant « marais »"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_dax_c4",
+          "content": {
+            "fr": "D'une abréviation administrative du XIXe siècle"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-02_bagneres",
+      "type": "single",
+      "prompt": {
+        "fr": "Bagnères-de-Bigorre, Bagnoles-de-l'Orne, Bagnols-sur-Cèze : que désignent ces noms ?"
+      },
+      "points": 1,
+      "position": 3,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Balneum",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " a aussi donné « bain » et, par l'italien "
+                },
+                {
+                  "type": "text",
+                  "text": "bagno",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", le « bagne » : celui de Livourne était installé dans d'anciens bains. Bagnolet, aux portes de Paris, serait un « petit bain »."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-02_bagneres_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Des bains, du latin "
+                    },
+                    {
+                      "type": "text",
+                      "text": "balneum",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " : des eaux où l'on se baignait, souvent thermales"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_bagneres_c2",
+          "content": {
+            "fr": "Des bagnes, lieux de détention"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_bagneres_c3",
+          "content": {
+            "fr": "Des bannières, lieux de rassemblement"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_bagneres_c4",
+          "content": {
+            "fr": "Des bancs de sable"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-02_fontenay",
+      "type": "single",
+      "prompt": {
+        "fr": "Que désigne le nom des nombreux Fontenay, Fontenoy et Fontanet ?"
+      },
+      "points": 1,
+      "position": 4,
+      "explanation": {
+        "fr": "Le suffixe -etum désigne un ensemble : on le retrouve dans les noms d'arbres collectifs (Chesnay, les chênes ; Aulnay, les aulnes ; Fresnay, les frênes). Fontenay-aux-Roses tenait ses roses des pépiniéristes qui y travaillaient."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-02_fontenay_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Un lieu riche en sources, du latin "
+                    },
+                    {
+                      "type": "text",
+                      "text": "fontanetum",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_fontenay_c2",
+          "content": {
+            "fr": "Un domaine appartenant à un certain Fontanus"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_fontenay_c3",
+          "content": {
+            "fr": "Une forêt de hêtres"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_fontenay_c4",
+          "content": {
+            "fr": "Une forteresse"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-02_font-romeu",
+      "type": "single",
+      "prompt": {
+        "fr": "Font-Romeu, dans les Pyrénées catalanes : que signifie son nom ?"
+      },
+      "points": 1,
+      "position": 5,
+      "explanation": {
+        "fr": "Une source y était réputée miraculeuse, près d'un ermitage marial. Le « romieu » était le pèlerin en ancien occitan ; le nom de famille Roumieu en garde la trace."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-02_font-romeu_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "« La fontaine du pèlerin » : "
+                    },
+                    {
+                      "type": "text",
+                      "text": "font",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " est la fontaine, et "
+                    },
+                    {
+                      "type": "text",
+                      "text": "romeu",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", en catalan, le pèlerin (à l'origine, celui qui allait à Rome)"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_font-romeu_c2",
+          "content": {
+            "fr": "« Le pont romain »"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_font-romeu_c3",
+          "content": {
+            "fr": "« La fonte des neiges »"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_font-romeu_c4",
+          "content": {
+            "fr": "« Le fort de Roméo »"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-02_caudebec",
+      "type": "single",
+      "prompt": {
+        "fr": "Caudebec-en-Caux, Bolbec, Houlbec : que veut dire « -bec » en Normandie ?"
+      },
+      "points": 1,
+      "position": 6,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Les Vikings installés en Normandie au Xe siècle ont laissé des centaines de noms. Le même mot germanique a donné l'allemand "
+                },
+                {
+                  "type": "text",
+                  "text": "Bach",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " (ruisseau) et l'anglais dialectal "
+                },
+                {
+                  "type": "text",
+                  "text": "beck",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " : Caudebec est l'équivalent exact de l'allemand "
+                },
+                {
+                  "type": "text",
+                  "text": "kalter Bach",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ". Le pays de Caux tient son nom des Calètes, un peuple gaulois."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-02_caudebec_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Un ruisseau, du vieux norrois "
+                    },
+                    {
+                      "type": "text",
+                      "text": "bekkr",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " ; Caudebec est « le ruisseau froid » ("
+                    },
+                    {
+                      "type": "text",
+                      "text": "kaldr",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", froid)"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_caudebec_c2",
+          "content": {
+            "fr": "Un bec de terre entre deux rivières"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_caudebec_c3",
+          "content": {
+            "fr": "Un port de pêche"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_caudebec_c4",
+          "content": {
+            "fr": "Une hauteur rocheuse"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-02_normandie",
+      "type": "multiple",
+      "prompt": {
+        "fr": "Quels éléments de noms de lieux normands sont d'origine scandinave ?"
+      },
+      "points": 1,
+      "position": 7,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "-tot est très fréquent en Haute-Normandie, surtout dans le pays de Caux. -ville vient du latin "
+                },
+                {
+                  "type": "text",
+                  "text": "villa",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", le domaine… mais il est souvent précédé, en Normandie, d'un nom de personne scandinave : Trouville serait le domaine d'un certain Thorulf. Le suffixe -ac est gallo-romain, et méridional."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-02_normandie_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "-tot ou -tuit (Yvetot, Criquetot, Le Thuit), du vieux norrois "
+                    },
+                    {
+                      "type": "text",
+                      "text": "topt",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " : le terrain, l'emplacement d'une ferme"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_normandie_c2",
+          "content": {
+            "fr": "-bec (Caudebec), le ruisseau"
+          },
+          "correct": true,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_normandie_c3",
+          "content": {
+            "fr": "-beuf (Elbeuf, Quillebeuf), l'abri, la cabane"
+          },
+          "correct": true,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_normandie_c4",
+          "content": {
+            "fr": "-ville (Trouville), le domaine"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_normandie_c5",
+          "content": {
+            "fr": "-ac (Bergerac), le domaine"
+          },
+          "correct": false,
+          "position": 4,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-02_honfleur",
+      "type": "single",
+      "prompt": {
+        "fr": "Honfleur, Harfleur, Barfleur : ces noms n'ont rien à voir avec les fleurs. Que désigne « -fleur » ?"
+      },
+      "points": 1,
+      "position": 8,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Les trois ports sont sur la côte ou à l'embouchure d'un fleuve, là où les navires s'abritaient. L'anglais "
+                },
+                {
+                  "type": "text",
+                  "text": "fleet",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " (dans "
+                },
+                {
+                  "type": "text",
+                  "text": "Fleet Street",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", à Londres, du nom d'une rivière couverte) est apparenté."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-02_honfleur_c1",
+          "content": {
+            "fr": "Un cours d'eau, un estuaire ou une crique, d'un mot scandinave ou saxon"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_honfleur_c2",
+          "content": {
+            "fr": "Un phare"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_honfleur_c3",
+          "content": {
+            "fr": "Un champ de lin en fleurs"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_honfleur_c4",
+          "content": {
+            "fr": "Une église dédiée à une sainte"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-02_azay",
+      "type": "single",
+      "prompt": {
+        "fr": "Azay-le-Rideau et Azay-sur-Indre sur l'Indre, Azay-sur-Cher, Azé sur la Mayenne : ces lieux sont presque tous au bord d'un cours d'eau. Que signifierait leur nom, selon une explication souvent avancée ?"
+      },
+      "points": 1,
+      "position": 9,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "L'étymologie d'Azay reste discutée : d'autres y voient un domaine gallo-romain en "
+                },
+                {
+                  "type": "text",
+                  "text": "-acum",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", comme Fleury ou Orly. Le château d'Azay-le-Rideau, bâti sur une île de l'Indre au XVIe siècle, semble en tout cas sortir de l'eau. Après un incendie en 1418, pendant la guerre entre Armagnacs et Bourguignons, la ville fut surnommée « Azay-le-Brûlé »."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-02_azay_c1",
+          "content": {
+            "fr": "Un lieu riche en eau, d'une racine gauloise ou plus ancienne ; quant au « Rideau » d'Azay-le-Rideau, il vient d'un seigneur nommé Ridel"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_azay_c2",
+          "content": {
+            "fr": "Une forteresse, en gaulois ; « Rideau » désigne le rideau d'arbres qui la cachait"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_azay_c3",
+          "content": {
+            "fr": "Un lieu de passage des troupeaux ; « Rideau » rappelle les brumes de l'Indre"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_azay_c4",
+          "content": {
+            "fr": "Un lieu de bataille contre les Vikings ; « Rideau » est le nom de la bataille"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-02_briva",
+      "type": "single",
+      "prompt": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Brive-la-Gaillarde, Briare, Brioude, et Amiens, qui s'appelait "
+                },
+                {
+                  "type": "text",
+                  "text": "Samarobriva",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " : quel mot gaulois ont-elles en commun ?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "points": 1,
+      "position": 10,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Briare viendrait de "
+                },
+                {
+                  "type": "text",
+                  "text": "Brivodurum",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", « la forteresse du pont ». Ces noms montrent que les Gaulois franchissaient les rivières sur des ponts bien avant la conquête romaine. Amiens, comme Paris, a ensuite pris le nom de son peuple, les Ambiens."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-02_briva_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Briva",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", le pont : Samarobriva était « le pont sur la Somme » ("
+                    },
+                    {
+                      "type": "text",
+                      "text": "Samara",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_briva_c2",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Briva",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", la colline"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_briva_c3",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Briva",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", le marché"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_briva_c4",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Briva",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", le temple"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-02_gue",
+      "type": "single",
+      "prompt": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Chambord ("
+                },
+                {
+                  "type": "text",
+                  "text": "Camboritum",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ") et Niort ("
+                },
+                {
+                  "type": "text",
+                  "text": "Novioritum",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ") cachent le même mot gaulois, "
+                },
+                {
+                  "type": "text",
+                  "text": "ritu",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ". Que signifie-t-il ?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "points": 1,
+      "position": 11,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Le gaulois "
+                },
+                {
+                  "type": "text",
+                  "text": "ritu",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " et l'anglais "
+                },
+                {
+                  "type": "text",
+                  "text": "ford",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", le gué d'Oxford (« le gué des bœufs »), remontent à la même racine indo-européenne. Attention : Chartres ne contient pas ce mot, la ville tient son nom des Carnutes."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-02_gue_c1",
+          "content": {
+            "fr": "Un gué, un passage à pied dans une rivière ; Chambord serait « le gué du méandre », Niort « le nouveau gué »"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_gue_c2",
+          "content": {
+            "fr": "Une forteresse"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_gue_c3",
+          "content": {
+            "fr": "Un rite, une cérémonie religieuse"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_gue_c4",
+          "content": {
+            "fr": "Une rive"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-02_condate",
+      "type": "single",
+      "prompt": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Avant de s'appeler Rennes, la ville se nommait "
+                },
+                {
+                  "type": "text",
+                  "text": "Condate",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ". Que désignait ce mot gaulois ?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "points": 1,
+      "position": 12,
+      "explanation": {
+        "fr": "Les Condé, Condat et Candes de France sont presque toujours à la rencontre de deux cours d'eau, comme Candes-Saint-Martin, au confluent de la Vienne et de la Loire. Rennes, elle, a pris le nom de son peuple gaulois, les Riedones."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-02_condate_c1",
+          "content": {
+            "fr": "Un confluent : Rennes est au confluent de l'Ille et de la Vilaine"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_condate_c2",
+          "content": {
+            "fr": "Un comté"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_condate_c3",
+          "content": {
+            "fr": "Un camp militaire"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_condate_c4",
+          "content": {
+            "fr": "Une côte rocheuse"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-02_gave",
+      "type": "single",
+      "prompt": {
+        "fr": "Gave de Pau, gave d'Oloron, gave de Gavarnie : qu'est-ce qu'un « gave » ?"
+      },
+      "points": 1,
+      "position": 13,
+      "explanation": {
+        "fr": "Le mot, très ancien, antérieur au latin, ne s'emploie que dans le Béarn et la Bigorre. Plus à l'est, on parle de « neste », comme la Neste d'Aure."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-02_gave_c1",
+          "content": {
+            "fr": "Un torrent de montagne, dans les Pyrénées"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_gave_c2",
+          "content": {
+            "fr": "Un lac glaciaire"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_gave_c3",
+          "content": {
+            "fr": "Une grotte"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_gave_c4",
+          "content": {
+            "fr": "Un col"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-02_anse",
+      "type": "single",
+      "prompt": {
+        "fr": "Grande-Anse, Les Anses-d'Arlet, Anse-Bertrand : une anse est une petite baie arrondie. Quel rapport avec l'anse d'une tasse ?"
+      },
+      "points": 1,
+      "position": 14,
+      "explanation": {
+        "fr": "Les noms de lieux des Antilles mêlent le français des marins et des colons (anse, morne, cabesterre) et des noms d'origine amérindienne."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-02_anse_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "C'est le même mot, du latin "
+                    },
+                    {
+                      "type": "text",
+                      "text": "ansa",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", la poignée : la courbe de la côte rappelle celle d'une anse"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_anse_c2",
+          "content": {
+            "fr": "Aucun : l'anse marine vient d'un mot caraïbe"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_anse_c3",
+          "content": {
+            "fr": "Les marins y attachaient leurs bateaux comme à une poignée"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-02_anse_c4",
+          "content": {
+            "fr": "Les anses étaient creusées à la main"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    }
+  ]
+}

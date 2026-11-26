@@ -1,0 +1,1742 @@
+{
+  "id": "org-abbon-etymologie_toponymie-01",
+  "categoryId": "org-abbon-etymologie_toponymie",
+  "title": {
+    "fr": "Noms de lieux : hauteurs, enclos et forteresses"
+  },
+  "description": {
+    "fr": "Plessis, Essarts, Ferté, Mesnil, villes franches et châteaux neufs, les domaines gallo-romains en -acum, puy et puech, morne des Antilles, Basse-Terre, Paris et Lyon, frontières gauloises (Ingrandes, Ingrannes, Aigurande, Fins), Plou- et Ker- en Bretagne, -heim en Alsace, calanque"
+  },
+  "languages": [
+    "fr"
+  ],
+  "level": "bases",
+  "tags": [
+    "étymologie",
+    "toponymie",
+    "culture générale",
+    "français"
+  ],
+  "timeLimitSec": null,
+  "passThreshold": 0.6,
+  "scoring": "all_or_nothing",
+  "solutionVisibility": "after_submit",
+  "shuffle": true,
+  "status": "published",
+  "version": 3002,
+  "author": "Abbon",
+  "createdAt": "2026-11-23T00:00:00.000Z",
+  "updatedAt": "2026-11-23T00:00:00.000Z",
+  "questions": [
+    {
+      "id": "org-abbon-etymologie_toponymie-01_plessis",
+      "type": "single",
+      "prompt": {
+        "fr": "Le Plessis-Robinson, Le Plessis-Trévise, Plessis-lez-Tours : qu'était un « plessis » ?"
+      },
+      "points": 1,
+      "position": 0,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Le verbe « plesser » (plier, entrelacer les branches) se pratique encore pour faire des haies vives. Et Robinson ? Au XIXe siècle, des guinguettes du village s'étaient installées dans les arbres, à la manière du "
+                },
+                {
+                  "type": "text",
+                  "text": "Robinson suisse",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " ; leur succès fut tel que la commune ajouta « Robinson » à son nom en 1909."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-01_plessis_c1",
+          "content": {
+            "fr": "Un enclos fermé par une haie de branches pliées et entrelacées"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_plessis_c2",
+          "content": {
+            "fr": "Une petite place de marché"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_plessis_c3",
+          "content": {
+            "fr": "Un pré inondable au bord d'une rivière"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_plessis_c4",
+          "content": {
+            "fr": "Une chapelle isolée dans la campagne"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-01_essarts",
+      "type": "single",
+      "prompt": {
+        "fr": "Les Essarts-le-Roi (Yvelines), Les Essarts (Vendée) : que rappelle ce nom ?"
+      },
+      "points": 1,
+      "position": 1,
+      "explanation": {
+        "fr": "« Essarter », c'est arracher les arbres et les souches pour cultiver. Les grands défrichements des XIe-XIIIe siècles ont semé la France d'Essarts, d'Essertines et de Sart. Le « roi » des Essarts-le-Roi rappelle sans doute le domaine royal tout proche, autour de Rambouillet."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-01_essarts_c1",
+          "content": {
+            "fr": "Des terres gagnées sur la forêt par défrichement"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_essarts_c2",
+          "content": {
+            "fr": "Des marais asséchés"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_essarts_c3",
+          "content": {
+            "fr": "Un lieu d'exécution des condamnés"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_essarts_c4",
+          "content": {
+            "fr": "Une ancienne carrière de pierre"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-01_ferte",
+      "type": "single",
+      "prompt": {
+        "fr": "La Ferté-sous-Jouarre, La Ferté-Bernard, La Ferté-Macé : que signifie « Ferté » ?"
+      },
+      "points": 1,
+      "position": 2,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Le second nom désigne souvent le seigneur qui tenait la place, comme à La Ferté-Bernard. "
+                },
+                {
+                  "type": "text",
+                  "text": "Firmitas",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " a aussi donné « fermeté » et, plus tard, « fortification » est venu d'une autre famille, celle de "
+                },
+                {
+                  "type": "text",
+                  "text": "fortis",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-01_ferte_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Une forteresse, du latin "
+                    },
+                    {
+                      "type": "text",
+                      "text": "firmitas",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", « fermeté, place forte »"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_ferte_c2",
+          "content": {
+            "fr": "Une ferme, exploitation agricole"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_ferte_c3",
+          "content": {
+            "fr": "Une foire, lieu de marché"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_ferte_c4",
+          "content": {
+            "fr": "Une terre fertile"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-01_mesnil",
+      "type": "single",
+      "prompt": {
+        "fr": "Le Mesnil-Saint-Denis, Ménilmontant, Blanc-Mesnil : qu'était un « mesnil » ?"
+      },
+      "points": 1,
+      "position": 3,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mansio",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " a aussi donné « maison », « manoir » et « ménage ». Ménilmontant serait le « mesnil montant », la maison sur la pente de la colline de Belleville."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-01_mesnil_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Une petite demeure avec ses terres, une ferme isolée (bas latin "
+                    },
+                    {
+                      "type": "text",
+                      "text": "mansionile",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", de "
+                    },
+                    {
+                      "type": "text",
+                      "text": "mansio",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", la maison)"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_mesnil_c2",
+          "content": {
+            "fr": "Un moulin à vent"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_mesnil_c3",
+          "content": {
+            "fr": "Une mesure de terre"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_mesnil_c4",
+          "content": {
+            "fr": "Un ermitage"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-01_villefranche",
+      "type": "single",
+      "prompt": {
+        "fr": "Villefranche-sur-Saône, Villefranche-de-Rouergue, Villeneuve, Sauveterre : que promettaient ces noms aux habitants du Moyen Âge ?"
+      },
+      "points": 1,
+      "position": 4,
+      "explanation": {
+        "fr": "Les seigneurs et les rois fondaient des villes neuves pour peupler leurs terres. La « sauveté » était un territoire sous la protection de l'Église, où l'on ne pouvait pas être poursuivi. Dans le Sud-Ouest, les bastides, au plan en damier, répondent au même projet."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-01_villefranche_c1",
+          "content": {
+            "fr": "Des avantages : franchises fiscales, protection, terre à cultiver, pour attirer des habitants dans une ville nouvelle"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_villefranche_c2",
+          "content": {
+            "fr": "Des villes sans seigneur, gouvernées par les Francs"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_villefranche_c3",
+          "content": {
+            "fr": "Des villes réservées aux étrangers"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_villefranche_c4",
+          "content": {
+            "fr": "Des villes détruites puis reconstruites"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-01_castelnau",
+      "type": "single",
+      "prompt": {
+        "fr": "Castelnau-de-Médoc, Castelnau-le-Lez, Châteauneuf-du-Pape, Newcastle : quel est le point commun de ces noms ?"
+      },
+      "points": 1,
+      "position": 5,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Un château « neuf » l'était… au moment de sa construction, souvent au XIe ou XIIe siècle. L'occitan "
+                },
+                {
+                  "type": "text",
+                  "text": "nau",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " (neuf) vient du latin "
+                },
+                {
+                  "type": "text",
+                  "text": "novus",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", comme le "
+                },
+                {
+                  "type": "text",
+                  "text": "new",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " anglais par une autre voie."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-01_castelnau_c1",
+          "content": {
+            "fr": "Tous signifient « château neuf », en occitan, en français et en anglais"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_castelnau_c2",
+          "content": {
+            "fr": "Ce sont des villes fondées par la même famille"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_castelnau_c3",
+          "content": {
+            "fr": "Tous sont situés au bord de la mer"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_castelnau_c4",
+          "content": {
+            "fr": "Tous désignent un château détruit"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-01_acum",
+      "type": "single",
+      "prompt": {
+        "fr": "Cognac, Aurillac, Fleury, Orly : que cachent ces noms, en apparence sans rapport ?"
+      },
+      "points": 1,
+      "position": 6,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Aurillac et Orly sont le même nom, "
+                },
+                {
+                  "type": "text",
+                  "text": "Aureliacum",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", le domaine d'Aurelius, l'un prononcé à l'occitane, l'autre à la française. Ce suffixe est l'un des meilleurs indices de la frontière entre langue d'oc et langue d'oïl : -ac au sud, -ay, -y ou -é au nord."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-01_acum_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Un ancien domaine gallo-romain, nommé d'après son propriétaire avec le suffixe "
+                    },
+                    {
+                      "type": "text",
+                      "text": "-acum",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " : devenu -ac au sud (Cognac, Aurillac), -ay ou -y au nord (Fleury, de "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Floriacum",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", le domaine de Florus ; Orly, d'"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Aureliacum",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_acum_c2",
+          "content": {
+            "fr": "Un gué, en gaulois"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_acum_c3",
+          "content": {
+            "fr": "Une source sacrée"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_acum_c4",
+          "content": {
+            "fr": "Un camp de légionnaires romains"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-01_puy",
+      "type": "single",
+      "prompt": {
+        "fr": "Le Puy-en-Velay, le puy de Dôme, Pech-Merle, les nombreux « puech » du Sud-Ouest : que désignent ces mots ?"
+      },
+      "points": 1,
+      "position": 7,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Podium",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " a donné « puy » au nord, « puech » et « pech » en occitan, « pueyo » en espagnol. Le « podium » des sportifs est le même mot, revenu par la voie savante. Attention au faux ami : le « puits » vient d'un autre mot latin, "
+                },
+                {
+                  "type": "text",
+                  "text": "puteus",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-01_puy_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Une hauteur, une colline ou un sommet, du latin "
+                    },
+                    {
+                      "type": "text",
+                      "text": "podium",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", « estrade, socle »"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_puy_c2",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Un puits, du latin "
+                    },
+                    {
+                      "type": "text",
+                      "text": "puteus",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_puy_c3",
+          "content": {
+            "fr": "Un volcan, en langue gauloise"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_puy_c4",
+          "content": {
+            "fr": "Un lieu de pèlerinage"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-01_morne",
+      "type": "single",
+      "prompt": {
+        "fr": "Aux Antilles, Morne-Rouge, Morne-à-l'Eau, le morne Larcher : qu'est-ce qu'un « morne » ?"
+      },
+      "points": 1,
+      "position": 8,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Le mot viendrait de l'espagnol "
+                },
+                {
+                  "type": "text",
+                  "text": "morro",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", « butte arrondie ». On le retrouve à Haïti et jusqu'à l'île Maurice, avec le Morne Brabant."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-01_morne_c1",
+          "content": {
+            "fr": "Une colline ou une montagne isolée, au sommet arrondi"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_morne_c2",
+          "content": {
+            "fr": "Une plage de sable noir"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_morne_c3",
+          "content": {
+            "fr": "Une plantation de canne à sucre"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_morne_c4",
+          "content": {
+            "fr": "Un village de pêcheurs"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-01_basse-terre",
+      "type": "single",
+      "prompt": {
+        "fr": "En Guadeloupe, l'île de Basse-Terre est la plus montagneuse, avec le volcan de la Soufrière. Pourquoi l'appelle-t-on « basse » ?"
+      },
+      "points": 1,
+      "position": 9,
+      "explanation": {
+        "fr": "L'opposition se retrouve en Martinique (Basse-Pointe, la côte de Capesterre) et à Saint-Christophe, dont la capitale s'appelle Basseterre. Grande-Terre, l'autre île de la Guadeloupe, est au contraire plate : les noms décrivaient la navigation, pas le relief."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-01_basse-terre_c1",
+          "content": {
+            "fr": "En langage de marin, la « basse-terre » est la côte sous le vent, à l'abri des alizés ; la côte exposée au vent s'appelait « cabesterre », d'où Capesterre"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_basse-terre_c2",
+          "content": {
+            "fr": "Parce qu'elle a été colonisée la dernière"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_basse-terre_c3",
+          "content": {
+            "fr": "Parce qu'on y cultivait les basses terres de canne"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_basse-terre_c4",
+          "content": {
+            "fr": "À cause d'une erreur des premiers cartographes"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-01_paris",
+      "type": "single",
+      "prompt": {
+        "fr": "D'où vient le nom de Paris ?"
+      },
+      "points": 1,
+      "position": 10,
+      "explanation": {
+        "fr": "À la fin de l'Empire romain, beaucoup de villes ont pris le nom du peuple dont elles étaient le chef-lieu : Reims (Rèmes), Amiens (Ambiens), Bourges (Bituriges), Poitiers (Pictons), Chartres (Carnutes). La légende troyenne de Paris a bien circulé au Moyen Âge, mais elle est inventée."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-01_paris_c1",
+          "content": {
+            "fr": "Du peuple gaulois des Parisii, installé sur les bords de la Seine ; la ville romaine s'appelait Lutèce"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_paris_c2",
+          "content": {
+            "fr": "De Pâris, le prince troyen"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_paris_c3",
+          "content": {
+            "fr": "D'un mot latin signifiant « égaux »"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_paris_c4",
+          "content": {
+            "fr": "Du nom d'un roi franc"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-01_lyon",
+      "type": "single",
+      "prompt": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Lyon ("
+                },
+                {
+                  "type": "text",
+                  "text": "Lugdunum",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "), Verdun, Laon, Châteaudun, Issoudun : que désigne le gaulois "
+                },
+                {
+                  "type": "text",
+                  "text": "dunum",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " ?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "points": 1,
+      "position": 11,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pour Lyon, le premier élément est discuté : le dieu Lug, ou un mot signifiant « lumineux ». Un mot germanique de la même famille a donné l'anglais "
+                },
+                {
+                  "type": "text",
+                  "text": "town",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", la ville."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-01_lyon_c1",
+          "content": {
+            "fr": "Une forteresse, une place forte, souvent sur une hauteur"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_lyon_c2",
+          "content": {
+            "fr": "Une rivière"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_lyon_c3",
+          "content": {
+            "fr": "Un marché"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_lyon_c4",
+          "content": {
+            "fr": "Un temple"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-01_equoranda",
+      "type": "multiple",
+      "prompt": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Les peuples gaulois marquaient leurs frontières : le mot gaulois "
+                },
+                {
+                  "type": "text",
+                  "text": "equoranda",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", « limite », traduit en latin "
+                },
+                {
+                  "type": "text",
+                  "text": "fines",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", « les limites », a laissé des noms de lieux. Lesquels en viennent ?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "points": 1,
+      "position": 12,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Equoranda",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " a donné Ingrandes, Ingrannes, Aigurande, Eygurande, Iguerande, Ygrande, Yvrande… : Ingrandes (Vienne) entre Pictons et Turons, Iguerande entre Éduens et Ségusiaves. Sa traduction latine, "
+                },
+                {
+                  "type": "text",
+                  "text": "fines",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", a donné Fins, Feins, Feings. Les cités gauloises étant devenues des diocèses, ces noms tombent souvent sur d'anciennes limites de diocèse ou de province. Pièges : Mirande vient de l'occitan "
+                },
+                {
+                  "type": "text",
+                  "text": "miranda",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", le belvédère (de "
+                },
+                {
+                  "type": "text",
+                  "text": "mirar",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", regarder) ; Fénétrange, en allemand "
+                },
+                {
+                  "type": "text",
+                  "text": "Finstingen",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", est un nom germanique en -ingen."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-01_equoranda_c1",
+          "content": {
+            "fr": "Ingrandes"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_equoranda_c2",
+          "content": {
+            "fr": "Aigurande"
+          },
+          "correct": true,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_equoranda_c3",
+          "content": {
+            "fr": "Fins (Somme)"
+          },
+          "correct": true,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_equoranda_c4",
+          "content": {
+            "fr": "Mirande"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_equoranda_c5",
+          "content": {
+            "fr": "Fénétrange"
+          },
+          "correct": false,
+          "position": 4,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-01_fines-peutinger",
+      "type": "single",
+      "prompt": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "La table de Peutinger, copie médiévale d'une carte des routes romaines, place une étape "
+                },
+                {
+                  "type": "text",
+                  "text": "Fines",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " sur la route d'Orléans ("
+                },
+                {
+                  "type": "text",
+                  "text": "Cenabum",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ") à Sens ("
+                },
+                {
+                  "type": "text",
+                  "text": "Agedincum",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "). Quel lieu porte aujourd'hui ce nom, sous sa forme gauloise ?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "points": 1,
+      "position": 13,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Les Romains écrivaient "
+                },
+                {
+                  "type": "text",
+                  "text": "Fines",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " sur leurs cartes, mais les habitants ont gardé le nom gaulois, "
+                },
+                {
+                  "type": "text",
+                  "text": "equoranda",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", devenu Ingrannes : l'historien Jacques Soyer y a placé cette étape, au prix d'une correction de distance de la Table. De même, l'étape "
+                },
+                {
+                  "type": "text",
+                  "text": "Fines",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " entre Poitiers et Argenton est aujourd'hui Ingrandes (Indre). Le Finistère, lui, est le "
+                },
+                {
+                  "type": "text",
+                  "text": "finis terrae",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", le « bout de la terre », et non une frontière entre peuples."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-01_fines-peutinger_c1",
+          "content": {
+            "fr": "Ingrannes, dans le Loiret, à la lisière est de la forêt d'Orléans, limite des Carnutes et des Sénons"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_fines-peutinger_c2",
+          "content": {
+            "fr": "Fins, dans la Somme"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_fines-peutinger_c3",
+          "content": {
+            "fr": "Le Finistère"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_fines-peutinger_c4",
+          "content": {
+            "fr": "Pithiviers"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-01_bretagne",
+      "type": "multiple",
+      "prompt": {
+        "fr": "En Bretagne, quels éléments de noms de lieux sont correctement expliqués ?"
+      },
+      "points": 1,
+      "position": 14,
+      "explanation": {
+        "fr": "Tré- désigne une trève, subdivision de la paroisse ; « gwenn » veut dire blanc (Guingamp, Gwengamp, le « camp blanc »). Les saints fondateurs venus de Grande-Bretagne aux Ve-VIe siècles ont laissé leur nom à des centaines de lieux."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-01_bretagne_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Plou-, Plé-, Plo- (Plougastel, Pléneuf, Ploërmel) : la paroisse, du latin "
+                    },
+                    {
+                      "type": "text",
+                      "text": "plebs",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", le peuple"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_bretagne_c2",
+          "content": {
+            "fr": "Ker- (Kerlouan, Kermaria) : le village, le hameau, la maison"
+          },
+          "correct": true,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_bretagne_c3",
+          "content": {
+            "fr": "Lan- (Lannion, Landerneau) : un lieu consacré, un ermitage, souvent suivi du nom d'un saint"
+          },
+          "correct": true,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_bretagne_c4",
+          "content": {
+            "fr": "Tré- (Trégastel, Trébeurden) : la tour d'un château"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_bretagne_c5",
+          "content": {
+            "fr": "Gwen- : la rivière"
+          },
+          "correct": false,
+          "position": 4,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-01_alsace",
+      "type": "single",
+      "prompt": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "En Alsace, Molsheim, Mulhouse… et Ingersheim, Bergheim : que signifie la terminaison "
+                },
+                {
+                  "type": "text",
+                  "text": "-heim",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " ?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "points": 1,
+      "position": 15,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "-heim marque souvent un établissement ancien, fondé par un chef dont il porte le nom. Mulhouse, en alsacien "
+                },
+                {
+                  "type": "text",
+                  "text": "Milhüsa",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", est « la maison du moulin ». Le -ham anglais (Birmingham, Nottingham) est de la même famille."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-01_alsace_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "La demeure, le foyer, le village (comme l'anglais "
+                    },
+                    {
+                      "type": "text",
+                      "text": "home",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_alsace_c2",
+          "content": {
+            "fr": "La montagne"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_alsace_c3",
+          "content": {
+            "fr": "L'église"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_alsace_c4",
+          "content": {
+            "fr": "La frontière"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_toponymie-01_calanque",
+      "type": "single",
+      "prompt": {
+        "fr": "Que désigne une « calanque », comme celles de Sormiou ou d'En-Vau, près de Marseille ?"
+      },
+      "points": 1,
+      "position": 16,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Le mot vient du provençal "
+                },
+                {
+                  "type": "text",
+                  "text": "calanco",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", d'une racine très ancienne, antérieure au latin, "
+                },
+                {
+                  "type": "text",
+                  "text": "cala",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", l'abri ou la pente raide, qu'on retrouve dans les "
+                },
+                {
+                  "type": "text",
+                  "text": "calas",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " de Majorque et de Catalogne. La grotte Cosquer, ornée il y a plus de 30 000 ans, s'ouvre sous l'eau dans la calanque de la Triperie."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_toponymie-01_calanque_c1",
+          "content": {
+            "fr": "Une crique étroite aux parois rocheuses abruptes, une vallée envahie par la mer"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_calanque_c2",
+          "content": {
+            "fr": "Une source d'eau douce jaillissant en mer"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_calanque_c3",
+          "content": {
+            "fr": "Un port de pêche fortifié"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_toponymie-01_calanque_c4",
+          "content": {
+            "fr": "Une grotte sous-marine"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    }
+  ]
+}

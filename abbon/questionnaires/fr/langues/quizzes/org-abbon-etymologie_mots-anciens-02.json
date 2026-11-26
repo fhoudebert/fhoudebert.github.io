@@ -1,0 +1,1123 @@
+{
+  "id": "org-abbon-etymologie_mots-anciens-02",
+  "categoryId": "org-abbon-etymologie_mots-anciens",
+  "title": {
+    "fr": "Monnaies, mesures et expressions d'autrefois"
+  },
+  "description": {
+    "fr": "Livre, sou et denier, maille, aloi, demi-setier, boisseau, bonne chère, haut du pavé, hue et dia, férir, encan, pénates, aître, et deux noms de lieux : ouche et breuil"
+  },
+  "languages": [
+    "fr"
+  ],
+  "level": "approfondissement",
+  "tags": [
+    "étymologie",
+    "culture générale",
+    "français",
+    "Moyen Âge"
+  ],
+  "timeLimitSec": null,
+  "passThreshold": 0.6,
+  "scoring": "all_or_nothing",
+  "solutionVisibility": "after_submit",
+  "shuffle": true,
+  "status": "published",
+  "version": 3002,
+  "author": "Abbon",
+  "createdAt": "2026-11-23T00:00:00.000Z",
+  "updatedAt": "2026-11-23T00:00:00.000Z",
+  "questions": [
+    {
+      "id": "org-abbon-etymologie_mots-anciens-02_livre-sou-denier",
+      "type": "cloze",
+      "prompt": {
+        "fr": "Complétez le système de compte d'avant le franc."
+      },
+      "points": 1,
+      "position": 0,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "La livre est une monnaie de compte : longtemps, aucune pièce ne vaut une livre. Le Royaume-Uni a gardé le même système jusqu'en 1971 : 1 livre = 20 "
+                },
+                {
+                  "type": "text",
+                  "text": "shillings",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " = 240 "
+                },
+                {
+                  "type": "text",
+                  "text": "pence",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", abrégés £, s et d, pour "
+                },
+                {
+                  "type": "text",
+                  "text": "libra",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "text",
+                  "text": "solidus",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " et "
+                },
+                {
+                  "type": "text",
+                  "text": "denarius",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [],
+      "expected": {
+        "text": {
+          "fr": "De Charlemagne à la Révolution, on compte en livres, sous et deniers : 1 livre vaut {{1}} sous, et 1 sou vaut {{2}} deniers."
+        },
+        "gaps": [
+          {
+            "kind": "select",
+            "accepted": [
+              "20"
+            ],
+            "options": [
+              "10",
+              "12"
+            ]
+          },
+          {
+            "kind": "select",
+            "accepted": [
+              "12"
+            ],
+            "options": [
+              "10",
+              "20"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "org-abbon-etymologie_mots-anciens-02_sou",
+      "type": "single",
+      "prompt": {
+        "fr": "« Je n'ai pas un sou » : de quelle pièce le sou est-il l'héritier ?"
+      },
+      "points": 1,
+      "position": 1,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "En chemin, la pièce d'or est devenue petite monnaie. Le "
+                },
+                {
+                  "type": "text",
+                  "text": "solidus",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " a aussi donné la « solde » des militaires, puis, par l'italien, le « soldat », celui qui est payé. L'expression a survécu au franc et à l'euro : « machine à sous », « être sans le sou »."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_sou_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Du "
+                    },
+                    {
+                      "type": "text",
+                      "text": "solidus",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", pièce d'or romaine créée sous Constantin, d'un poids stable (« solide »)"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_sou_c2",
+          "content": {
+            "fr": "D'une pièce de bronze gauloise"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_sou_c3",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Du "
+                    },
+                    {
+                      "type": "text",
+                      "text": "soldo",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", pièce de cuivre de Venise"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_sou_c4",
+          "content": {
+            "fr": "D'une petite pièce frappée sous Napoléon"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-anciens-02_maille",
+      "type": "single",
+      "prompt": {
+        "fr": "« Avoir maille à partir avec quelqu'un », c'est avoir un différend avec lui. D'où vient l'expression ?"
+      },
+      "points": 1,
+      "position": 2,
+      "explanation": {
+        "fr": "Le sens ancien de « partir » survit dans « répartir » et dans « à partir de » (en séparant de). On disait aussi de quelqu'un de très pauvre qu'il n'avait « ni sou ni maille »."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_maille_c1",
+          "content": {
+            "fr": "La maille était la plus petite pièce, un demi-denier, et « partir » voulait dire « partager » : se disputer pour partager une pièce qu'on ne peut pas couper en deux"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_maille_c2",
+          "content": {
+            "fr": "D'un combat en cotte de mailles"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_maille_c3",
+          "content": {
+            "fr": "D'un tricot qu'on se dispute"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_maille_c4",
+          "content": {
+            "fr": "Du départ précipité d'un débiteur"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-anciens-02_aloi",
+      "type": "single",
+      "prompt": {
+        "fr": "Un produit « de bon aloi » est de bonne qualité. Que désignait l'aloi ?"
+      },
+      "points": 1,
+      "position": 3,
+      "explanation": {
+        "fr": "« Aloi » vient d'« aloyer », mélanger des métaux, de la même famille qu'« allier » et « alliage ». Rogner ou alléger les pièces, c'était la tentation des faux-monnayeurs… et parfois des rois eux-mêmes."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_aloi_c1",
+          "content": {
+            "fr": "La proportion de métal précieux d'une pièce de monnaie, fixée par la loi : une pièce de bon aloi n'était pas falsifiée"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_aloi_c2",
+          "content": {
+            "fr": "Le sceau du roi sur les marchandises"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_aloi_c3",
+          "content": {
+            "fr": "Une plante aux vertus médicinales"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_aloi_c4",
+          "content": {
+            "fr": "Le droit de vendre sur les marchés"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-anciens-02_demi",
+      "type": "single",
+      "prompt": {
+        "fr": "On explique souvent le « demi » de bière (25 cl) par une ancienne mesure. Laquelle ?"
+      },
+      "points": 1,
+      "position": 4,
+      "explanation": {
+        "fr": "Le setier était une mesure de grains ou de liquides, très variable d'une ville à l'autre. Le Littré note encore au XIXe siècle qu'à Paris, « demi-setier » se dit d'un quart de litre. Le « demi » s'est imposé à la fin du XIXe siècle face au « bock »."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_demi_c1",
+          "content": {
+            "fr": "Le demi-setier, qui valait à Paris à peu près un quart de litre"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_demi_c2",
+          "content": {
+            "fr": "La moitié d'un litre, d'où son nom"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_demi_c3",
+          "content": {
+            "fr": "La moitié d'une pinte anglaise"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_demi_c4",
+          "content": {
+            "fr": "La moitié de la ration du soldat"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-anciens-02_boisseau",
+      "type": "single",
+      "prompt": {
+        "fr": "Que veut dire « garder quelque chose sous le boisseau » ?"
+      },
+      "points": 1,
+      "position": 5,
+      "explanation": {
+        "fr": "Le boisselier fabriquait boisseaux, seaux, baquets et autres récipients de bois cerclé. Le boisseau a aussi été une mesure de capacité, d'une dizaine de litres, fraction du setier et du muid."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_boisseau_c1",
+          "content": {
+            "fr": "Le tenir caché : le boisseau était un récipient de bois servant à mesurer les grains, et l'Évangile parle de la lampe qu'on ne met pas sous le boisseau"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_boisseau_c2",
+          "content": {
+            "fr": "Le garder au frais, à la cave"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_boisseau_c3",
+          "content": {
+            "fr": "Le cacher dans un bois"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_boisseau_c4",
+          "content": {
+            "fr": "Le vendre en secret, au marché noir"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-anciens-02_chere",
+      "type": "single",
+      "prompt": {
+        "fr": "« Faire bonne chère », c'est bien manger. Que voulait dire « chère » à l'origine ?"
+      },
+      "points": 1,
+      "position": 6,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "« Chère » vient du latin "
+                },
+                {
+                  "type": "text",
+                  "text": "cara",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", « visage » (du grec "
+                },
+                {
+                  "type": "text",
+                  "text": "kara",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", la tête). De l'accueil, on est passé à ce qu'on sert aux invités. Écrire « faire bonne chair » est une faute fréquente."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_chere_c1",
+          "content": {
+            "fr": "Le visage : faire bonne chère, c'était faire bon visage, bon accueil, à ses hôtes"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_chere_c2",
+          "content": {
+            "fr": "La viande, « chair » mal orthographiée"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_chere_c3",
+          "content": {
+            "fr": "Le prix : un repas cher"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_chere_c4",
+          "content": {
+            "fr": "La chaise où l'on s'asseyait pour manger"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-anciens-02_pave",
+      "type": "single",
+      "prompt": {
+        "fr": "D'où vient l'expression « tenir le haut du pavé » ?"
+      },
+      "points": 1,
+      "position": 7,
+      "explanation": {
+        "fr": "Céder le haut du pavé, c'était s'avouer inférieur, et le refuser pouvait finir en duel. Le trottoir moderne, qui se généralise à Paris au XIXe siècle, a fait disparaître la question."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_pave_c1",
+          "content": {
+            "fr": "Dans les rues anciennes, le ruisseau des eaux sales coulait au milieu ; le haut du pavé, le long des maisons, restait propre, et les gens de rang obligeaient les autres à leur céder la place"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_pave_c2",
+          "content": {
+            "fr": "Des pavés plus hauts réservés aux carrosses"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_pave_c3",
+          "content": {
+            "fr": "Du premier étage des maisons, réservé aux bourgeois"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_pave_c4",
+          "content": {
+            "fr": "Des barricades, sur lesquelles se tenaient les chefs"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-anciens-02_hue-dia",
+      "type": "single",
+      "prompt": {
+        "fr": "« Tirer à hue et à dia » : que criait-on aux chevaux ?"
+      },
+      "points": 1,
+      "position": 8,
+      "explanation": {
+        "fr": "L'usage variait d'une région à l'autre, mais les deux cris ont toujours commandé des directions contraires. L'expression se dit d'une équipe qui agit sans coordination."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_hue-dia_c1",
+          "content": {
+            "fr": "« Hue ! » pour les faire aller à droite (ou avancer), « dia ! » pour les faire aller à gauche : tirer à hue et à dia, c'est tirer en sens opposés"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_hue-dia_c2",
+          "content": {
+            "fr": "« Hue ! » pour les arrêter, « dia ! » pour les faire reculer"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_hue-dia_c3",
+          "content": {
+            "fr": "Les deux mots désignent les deux chevaux de tête d'un attelage"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_hue-dia_c4",
+          "content": {
+            "fr": "« Hue » et « dia » étaient les noms de deux chevaux de légende"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-anciens-02_ferir",
+      "type": "single",
+      "prompt": {
+        "fr": "« Sans coup férir » : que voulait dire « férir » ?"
+      },
+      "points": 1,
+      "position": 9,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Le verbe, du latin "
+                },
+                {
+                  "type": "text",
+                  "text": "ferire",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", ne survit que dans cette expression… et dans son participe « féru » : être féru d'histoire, c'est en être frappé, passionné."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_ferir_c1",
+          "content": {
+            "fr": "Frapper : sans porter un seul coup, donc sans rencontrer de résistance"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_ferir_c2",
+          "content": {
+            "fr": "Fuir : sans s'enfuir"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_ferir_c3",
+          "content": {
+            "fr": "Fermer : sans fermer les portes"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_ferir_c4",
+          "content": {
+            "fr": "Ferrer : sans ferrer les chevaux"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-anciens-02_encan",
+      "type": "single",
+      "prompt": {
+        "fr": "Que signifie le mot « encan », dans « mettre à l'encan » ?"
+      },
+      "points": 1,
+      "position": 10,
+      "explanation": {
+        "fr": "Le crieur demandait « pour combien ? » à la foule. Au figuré, « mettre à l'encan » se dit de ce qu'on brade sans scrupule : mettre son honneur à l'encan."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_encan_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "La vente aux enchères : le mot vient du latin "
+                    },
+                    {
+                      "type": "text",
+                      "text": "in quantum",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", « pour combien ? »"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_encan_c2",
+          "content": {
+            "fr": "Le grenier, où l'on rangeait les objets usagés"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_encan_c3",
+          "content": {
+            "fr": "La foire aux bestiaux"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_encan_c4",
+          "content": {
+            "fr": "La saisie par la justice"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-anciens-02_penates",
+      "type": "single",
+      "prompt": {
+        "fr": "Que sont les pénates, que l'on regagne quand on rentre chez soi ?"
+      },
+      "points": 1,
+      "position": 11,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Le Romain qui partait emportait parfois ses pénates. Énée, dans l'"
+                },
+                {
+                  "type": "text",
+                  "text": "Énéide",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", les sauve de Troie en flammes pour les installer en Italie : « regagner ses pénates » a gardé quelque chose de ce retour au foyer."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_penates_c1",
+          "content": {
+            "fr": "Les dieux protecteurs du foyer chez les Romains, dont on gardait les statuettes dans la maison"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_penates_c2",
+          "content": {
+            "fr": "Les pantoufles, en latin populaire"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_penates_c3",
+          "content": {
+            "fr": "Les poutres de la charpente"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_penates_c4",
+          "content": {
+            "fr": "Les ancêtres enterrés dans le jardin"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-anciens-02_aitre",
+      "type": "single",
+      "prompt": {
+        "fr": "À Rouen, l'aître Saint-Maclou, avec ses galeries sculptées de crânes et d'une danse macabre, rappelle le sens ancien du mot « aître ». Lequel ?"
+      },
+      "points": 1,
+      "position": 12,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "L'"
+                },
+                {
+                  "type": "text",
+                  "text": "atrium",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " était la cour centrale de la maison romaine, puis le parvis des églises ; on y enterrait les morts. À Saint-Maclou, les galeries du XVIe siècle servaient d'ossuaire, après les grandes épidémies de peste."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_aitre_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "L'espace autour d'une église, servant de cimetière, du latin "
+                    },
+                    {
+                      "type": "text",
+                      "text": "atrium",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", la cour d'entrée"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_aitre_c2",
+          "content": {
+            "fr": "Une chapelle souterraine"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_aitre_c3",
+          "content": {
+            "fr": "La maison du prêtre"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_aitre_c4",
+          "content": {
+            "fr": "Le clocher et ses dépendances"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-anciens-02_ouche",
+      "type": "single",
+      "prompt": {
+        "fr": "Que désignait une « ouche », mot qu'on retrouve dans de nombreux noms de lieux (Les Ouches, L'Ouche) ?"
+      },
+      "points": 1,
+      "position": 13,
+      "explanation": {
+        "fr": "Le mot vient du gaulois, comme beaucoup de noms de lieux ruraux. Il a survécu dans le cadastre et sur les panneaux bien après avoir disparu de la langue courante."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_ouche_c1",
+          "content": {
+            "fr": "Une terre fertile, souvent close, près de la maison, cultivée en jardin ou en verger"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_ouche_c2",
+          "content": {
+            "fr": "Une mare où s'abreuvaient les bêtes"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_ouche_c3",
+          "content": {
+            "fr": "Un chemin creux"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_ouche_c4",
+          "content": {
+            "fr": "Une colline boisée"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-anciens-02_breuil",
+      "type": "single",
+      "prompt": {
+        "fr": "Le Breuil, Breuillet, Breuil-le-Vert : quel paysage ces noms de lieux rappellent-ils ?"
+      },
+      "points": 1,
+      "position": 14,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Du gaulois "
+                },
+                {
+                  "type": "text",
+                  "text": "brogilo",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", « bois enclos ». Les noms de lieux gardent la mémoire des paysages : un Plessis était un enclos de branches entrelacées, les Essarts des terres défrichées, une Ferté une forteresse."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_breuil_c1",
+          "content": {
+            "fr": "Un petit bois clos, un taillis, souvent réservé à la chasse du seigneur"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_breuil_c2",
+          "content": {
+            "fr": "Un marécage"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_breuil_c3",
+          "content": {
+            "fr": "Un champ de bruyères"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-anciens-02_breuil_c4",
+          "content": {
+            "fr": "Une source chaude"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    }
+  ]
+}

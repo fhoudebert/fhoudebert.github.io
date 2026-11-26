@@ -1,0 +1,1785 @@
+{
+  "id": "org-abbon-etymologie_mots-voyageurs-01",
+  "categoryId": "org-abbon-etymologie_mots-voyageurs",
+  "title": {
+    "fr": "Mots voyageurs et allers-retours"
+  },
+  "description": {
+    "fr": "Manitou, cafter, noue, hasard, zéro et chiffre, abricot, budget, tennis, vasistas, karaoké, tabou, avocat"
+  },
+  "languages": [
+    "fr"
+  ],
+  "level": "bases",
+  "tags": [
+    "étymologie",
+    "culture générale",
+    "français"
+  ],
+  "timeLimitSec": null,
+  "passThreshold": 0.6,
+  "scoring": "all_or_nothing",
+  "solutionVisibility": "after_submit",
+  "shuffle": true,
+  "status": "published",
+  "version": 3002,
+  "author": "Abbon",
+  "createdAt": "2026-11-23T00:00:00.000Z",
+  "updatedAt": "2026-11-23T00:00:00.000Z",
+  "questions": [
+    {
+      "id": "org-abbon-etymologie_mots-voyageurs-01_manitou",
+      "type": "single",
+      "prompt": {
+        "fr": "Quand on parle du « grand manitou » d'une entreprise, on emploie un mot venu :"
+      },
+      "points": 1,
+      "position": 0,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Manitou",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " (en ojibwé "
+                },
+                {
+                  "type": "text",
+                  "text": "manidoo",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ") désigne la force spirituelle qui habite les êtres et les choses ; le « Grand Esprit » est "
+                },
+                {
+                  "type": "text",
+                  "text": "Gichi-manidoo",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ". Rapporté par les explorateurs et missionnaires français au XVIIe siècle, le mot est devenu en français familier un personnage puissant, un chef."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_manitou_c1",
+          "content": {
+            "fr": "Des langues algonquiennes d'Amérique du Nord, où il désigne une puissance ou un esprit surnaturel"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_manitou_c2",
+          "content": {
+            "fr": "Du malgache, où il désigne le chef d'un village"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_manitou_c3",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Du latin "
+                    },
+                    {
+                      "type": "text",
+                      "text": "manus",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", la main qui commande"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_manitou_c4",
+          "content": {
+            "fr": "Du japonais, où il désigne un maître d'arts martiaux"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-voyageurs-01_cafter",
+      "type": "single",
+      "prompt": {
+        "fr": "« Cafter », moucharder en argot scolaire, est de la même famille que « cafard ». D'où vient ce dernier ?"
+      },
+      "points": 1,
+      "position": 1,
+      "explanation": {
+        "fr": "« Cafard » a d'abord désigné un faux dévot, un hypocrite (XVIe siècle), puis un mouchard. L'insecte, qui se cache le jour, porte le même nom ; « avoir le cafard », c'est avoir des idées noires. « Cafter » est une forme abrégée de « cafarder »."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_cafter_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "De l'arabe "
+                    },
+                    {
+                      "type": "text",
+                      "text": "kāfir",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", « infidèle, mécréant », d'où le sens d'hypocrite, puis de dénonciateur"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_cafter_c2",
+          "content": {
+            "fr": "Du café, que les indicateurs de police fréquentaient"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_cafter_c3",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Du verbe néerlandais "
+                    },
+                    {
+                      "type": "text",
+                      "text": "kaffen",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", japper comme un petit chien"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_cafter_c4",
+          "content": {
+            "fr": "D'un lieutenant de police nommé Cafard, sous Louis XV"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-voyageurs-01_noue",
+      "type": "single",
+      "prompt": {
+        "fr": "Une « noue » est un fossé peu profond, souvent herbeux, qui recueille les eaux de pluie. Le mot vient :"
+      },
+      "points": 1,
+      "position": 2,
+      "explanation": {
+        "fr": "Le gaulois a laissé peu de mots en français, surtout dans le vocabulaire de la campagne : « noue », « bief », « bouleau », « chêne », « lande ». Les noues, remises à l'honneur pour infiltrer l'eau de pluie en ville, gardent un très vieux mot. En toiture, la noue est l'angle rentrant où se rejoignent deux pans et coule l'eau."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_noue_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Du gaulois "
+                    },
+                    {
+                      "type": "text",
+                      "text": "nauda",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", terrain humide, marécageux, qu'on retrouve dans des noms de lieux comme La Noue"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_noue_c2",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Du latin "
+                    },
+                    {
+                      "type": "text",
+                      "text": "nodus",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", le nœud, par la forme des fossés qui se croisent"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_noue_c3",
+          "content": {
+            "fr": "Du verbe « nouer », car on y nouait les bêtes pour les abreuver"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_noue_c4",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "De l'anglais "
+                    },
+                    {
+                      "type": "text",
+                      "text": "new",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", pour les nouveaux fossés de drainage du XIXe siècle"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-voyageurs-01_hasard",
+      "type": "single",
+      "prompt": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Que désignait l'arabe "
+                },
+                {
+                  "type": "text",
+                  "text": "az-zahr",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", à l'origine du mot « hasard » ?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "points": 1,
+      "position": 3,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Le mot a désigné un jeu de dés, puis le coup de dés malchanceux, puis le risque (un jeu de « hasard ») et enfin ce qui arrive sans cause apparente. "
+                },
+                {
+                  "type": "text",
+                  "text": "Zahr",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " signifie aussi « fleur » en arabe : selon une hypothèse, une face du dé portait une fleur."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_hasard_c1",
+          "content": {
+            "fr": "Un dé à jouer"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_hasard_c2",
+          "content": {
+            "fr": "Une étoile filante"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_hasard_c3",
+          "content": {
+            "fr": "Le destin écrit par Dieu"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_hasard_c4",
+          "content": {
+            "fr": "Une pièce de monnaie lancée en l'air"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-voyageurs-01_zero-chiffre",
+      "type": "single",
+      "prompt": {
+        "fr": "Quel lien unit les mots « zéro » et « chiffre » ?"
+      },
+      "points": 1,
+      "position": 4,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ṣifr",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " traduit le sanskrit "
+                },
+                {
+                  "type": "text",
+                  "text": "śūnya",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " (le vide). Le latin médiéval l'a rendu par "
+                },
+                {
+                  "type": "text",
+                  "text": "cifra",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", qui a donné « chiffre », d'abord au sens de zéro ; l'italien "
+                },
+                {
+                  "type": "text",
+                  "text": "zefiro",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", puis "
+                },
+                {
+                  "type": "text",
+                  "text": "zero",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", a donné « zéro ». « Chiffre » a pris le sens de signe numérique, puis de code secret (« chiffrer » un message)."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_zero-chiffre_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "C'est le même mot arabe, "
+                    },
+                    {
+                      "type": "text",
+                      "text": "ṣifr",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " (« vide »), arrivé deux fois en Europe par deux chemins différents"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_zero-chiffre_c2",
+          "content": {
+            "fr": "« Chiffre » est un ancien pluriel de « zéro »"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_zero-chiffre_c3",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Les deux viennent du grec "
+                    },
+                    {
+                      "type": "text",
+                      "text": "kephalê",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", la tête"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_zero-chiffre_c4",
+          "content": {
+            "fr": "Aucun : ce n'est qu'une coïncidence"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-voyageurs-01_abricot",
+      "type": "single",
+      "prompt": {
+        "fr": "Par quel trajet le mot « abricot » est-il arrivé en français ?"
+      },
+      "points": 1,
+      "position": 5,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Un mot latin, parti vers l'Orient, est revenu en Europe habillé de l'article arabe "
+                },
+                {
+                  "type": "text",
+                  "text": "al-",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " : c'est un aller-retour. Le latin "
+                },
+                {
+                  "type": "text",
+                  "text": "praecox",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", qui a donné « précoce », désignait un fruit mûr avant la pêche."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_abricot_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Du latin "
+                    },
+                    {
+                      "type": "text",
+                      "text": "praecoquum",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " (fruit « précoce ») au grec byzantin, à l'arabe "
+                    },
+                    {
+                      "type": "text",
+                      "text": "al-barqūq",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", puis à l'espagnol ou au catalan"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_abricot_c2",
+          "content": {
+            "fr": "Directement du persan, langue du pays d'origine du fruit"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_abricot_c3",
+          "content": {
+            "fr": "Du nom d'Abricus, marchand grec qui l'importa à Marseille"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_abricot_c4",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "De l'ancien français "
+                    },
+                    {
+                      "type": "text",
+                      "text": "abri",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", car on le cultivait à l'abri des murs"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-voyageurs-01_budget",
+      "type": "single",
+      "prompt": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Le mot anglais "
+                },
+                {
+                  "type": "text",
+                  "text": "budget",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", emprunté par le français au XVIIIe siècle, était lui-même venu :"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "points": 1,
+      "position": 6,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "En Angleterre, le chancelier de l'Échiquier ouvrait (« "
+                },
+                {
+                  "type": "text",
+                  "text": "opened the budget",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " ») le sac contenant ses comptes devant le Parlement. Le mot a désigné le plan des recettes et des dépenses, puis il est revenu en français avec ce sens nouveau. "
+                },
+                {
+                  "type": "text",
+                  "text": "Bougette",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " dérive de "
+                },
+                {
+                  "type": "text",
+                  "text": "bouge",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", sac, de la famille de « bourse »."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_budget_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "De l'ancien français "
+                    },
+                    {
+                      "type": "text",
+                      "text": "bougette",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", petite bourse de cuir"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_budget_c2",
+          "content": {
+            "fr": "Du nom de lord Budget, chancelier de l'Échiquier"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_budget_c3",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Du latin "
+                    },
+                    {
+                      "type": "text",
+                      "text": "bucca",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", la bouche : ce que l'on peut nourrir"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_budget_c4",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Du néerlandais "
+                    },
+                    {
+                      "type": "text",
+                      "text": "boek",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", le livre de comptes"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-voyageurs-01_tennis",
+      "type": "single",
+      "prompt": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Que cache le mot anglais "
+                },
+                {
+                  "type": "text",
+                  "text": "tennis",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " ?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "points": 1,
+      "position": 7,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Le jeu de paume, très populaire en France, s'est exporté en Angleterre, où l'injonction du serveur est devenue le nom du jeu. Le tennis moderne, codifié en 1874 en Angleterre, est revenu en France avec ce nom. Le « "
+                },
+                {
+                  "type": "text",
+                  "text": "deuce",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " » viendrait aussi du français « à deux » (de jeu)."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_tennis_c1",
+          "content": {
+            "fr": "Le français « Tenez ! », lancé par le joueur qui servait au jeu de paume"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_tennis_c2",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Le nombre dix ("
+                    },
+                    {
+                      "type": "text",
+                      "text": "ten",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "), pour les dix points d'un jeu"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_tennis_c3",
+          "content": {
+            "fr": "Le nom de la ville de Tennis, en Égypte, réputée pour ses toiles"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_tennis_c4",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Le filet ("
+                    },
+                    {
+                      "type": "text",
+                      "text": "net",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ") lu à l'envers"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-voyageurs-01_vasistas",
+      "type": "single",
+      "prompt": {
+        "fr": "D'où vient le « vasistas », petite fenêtre qui s'ouvre dans une porte ou une fenêtre ?"
+      },
+      "points": 1,
+      "position": 8,
+      "explanation": {
+        "fr": "On l'explique par la question qu'on posait par cette ouverture aux visiteurs, sans ouvrir la porte. Le mot apparaît en français au XVIIIe siècle. L'orthographe a francisé la phrase au point de la rendre méconnaissable."
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_vasistas_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "De l'allemand "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Was ist das?",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", « Qu'est-ce que c'est ? », la question posée à travers ce guichet"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_vasistas_c2",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Du latin "
+                    },
+                    {
+                      "type": "text",
+                      "text": "vas",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " (le vase) et "
+                    },
+                    {
+                      "type": "text",
+                      "text": "sistere",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " (poser)"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_vasistas_c3",
+          "content": {
+            "fr": "Du nom de Vasistas, vitrier de Strasbourg"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_vasistas_c4",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Du provençal "
+                    },
+                    {
+                      "type": "text",
+                      "text": "vasta",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", l'ouverture"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-voyageurs-01_karaoke",
+      "type": "single",
+      "prompt": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Que signifie littéralement le japonais "
+                },
+                {
+                  "type": "text",
+                  "text": "karaoke",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " ?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "points": 1,
+      "position": 9,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kara",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", vide, comme dans "
+                },
+                {
+                  "type": "text",
+                  "text": "karate",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " (« main vide », sans arme), et "
+                },
+                {
+                  "type": "text",
+                  "text": "oke",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", abrégé de "
+                },
+                {
+                  "type": "text",
+                  "text": "ōkesutora",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", emprunt à l'anglais "
+                },
+                {
+                  "type": "text",
+                  "text": "orchestra",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ". Un mot japonais qui contient un mot grec : "
+                },
+                {
+                  "type": "text",
+                  "text": "orchêstra",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " était l'espace où dansait le chœur du théâtre antique."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_karaoke_c1",
+          "content": {
+            "fr": "« Orchestre vide » : la musique est là, mais sans chanteur"
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_karaoke_c2",
+          "content": {
+            "fr": "« Chanson de la fête »"
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_karaoke_c3",
+          "content": {
+            "fr": "« Voix qui vole »"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_karaoke_c4",
+          "content": {
+            "fr": "« Micro ouvert »"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-voyageurs-01_tabou",
+      "type": "single",
+      "prompt": {
+        "fr": "Comment le mot « tabou » est-il arrivé dans les langues européennes ?"
+      },
+      "points": 1,
+      "position": 10,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Le mot polynésien ("
+                },
+                {
+                  "type": "text",
+                  "text": "tapu",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "text",
+                  "text": "kapu",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " à Hawaï) désigne ce qui est mis à part, à la fois sacré et dangereux à toucher. Il est passé en anglais ("
+                },
+                {
+                  "type": "text",
+                  "text": "taboo",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "), puis en français, avant que les ethnologues et Freud ("
+                },
+                {
+                  "type": "text",
+                  "text": "Totem et Tabou",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", 1913) ne le rendent courant."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_tabou_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Par le récit du navigateur James Cook, qui le relève aux îles Tonga en 1777, où "
+                    },
+                    {
+                      "type": "text",
+                      "text": "tapu",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " désigne ce qui est sacré et interdit"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_tabou_c2",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Par le latin "
+                    },
+                    {
+                      "type": "text",
+                      "text": "tabula",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", la table des lois interdites"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": false,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_tabou_c3",
+          "content": {
+            "fr": "Par l'arabe, au temps des croisades"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_tabou_c4",
+          "content": {
+            "fr": "Par une tribu d'Afrique de l'Ouest dont il est le nom"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": "org-abbon-etymologie_mots-voyageurs-01_avocat",
+      "type": "multiple",
+      "prompt": {
+        "fr": "Que peut-on dire des deux mots « avocat », le fruit et l'homme de loi ?"
+      },
+      "points": 1,
+      "position": 11,
+      "explanation": {
+        "fr": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Deux mots sans parenté qui se sont rejoints par hasard : les Espagnols ont rapproché le mot aztèque de "
+                },
+                {
+                  "type": "text",
+                  "text": "abogado",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " (avocat). Le nahuatl a aussi donné « chocolat », « tomate », « cacahuète » et « coyote »."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "choices": [
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_avocat_c1",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Le fruit vient du nahuatl (la langue des Aztèques) "
+                    },
+                    {
+                      "type": "text",
+                      "text": "ahuacatl",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", transformé par l'espagnol "
+                    },
+                    {
+                      "type": "text",
+                      "text": "aguacate",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 0,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_avocat_c2",
+          "content": {
+            "fr": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "L'homme de loi vient du latin "
+                    },
+                    {
+                      "type": "text",
+                      "text": "advocatus",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", « appelé auprès » de quelqu'un pour le défendre"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "correct": true,
+          "position": 1,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_avocat_c3",
+          "content": {
+            "fr": "Les deux mots ont la même origine latine"
+          },
+          "correct": false,
+          "position": 2,
+          "feedback": null
+        },
+        {
+          "id": "org-abbon-etymologie_mots-voyageurs-01_avocat_c4",
+          "content": {
+            "fr": "Le fruit doit son nom à sa couleur, celle de la robe des avocats"
+          },
+          "correct": false,
+          "position": 3,
+          "feedback": null
+        }
+      ]
+    }
+  ]
+}
